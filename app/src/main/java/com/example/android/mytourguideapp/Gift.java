@@ -23,15 +23,6 @@ public class Gift {
         this.giftImage = giftImage;
     }
 
-    @Override
-    public String toString() {
-        return "Gift{" +
-                "giftName='" + giftName + '\'' +
-                ", giftLocation='" + giftLocation + '\'' +
-                ", giftOpentime='" + giftNumber + '\'' +
-                ", giftImage=" + giftImage +
-                '}';
-    }
 
     public String getGiftName() {
         return giftName;

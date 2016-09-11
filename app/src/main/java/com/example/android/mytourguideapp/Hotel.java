@@ -43,16 +43,4 @@ public class Hotel {
         return hotelImage;
     }
 
-
-    @Override
-    public String toString() {
-        return "Hotel{" +
-                "hotelName='" + hotelName + '\'' +
-                ", hotelLocation='" + hotelLocation + '\'' +
-                ", hotelNumber='" + hotelNumber + '\'' +
-                ", hotelImage=" + hotelImage +
-                '}';
-    }
-
-
 }

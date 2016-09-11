@@ -96,7 +96,7 @@ public class AttractionFragment extends Fragment {
                 // custom dialog
                 final Dialog dialog = new Dialog(getContext());
                 dialog.setContentView(R.layout.activity_custom_dialog);
-                dialog.setTitle("Location");
+                dialog.setTitle(R.string.location_dialog_title);
 
                 // set the custom dialog components - text, image and button
                 ImageView image = (ImageView) dialog.findViewById(R.id.dialog_image);

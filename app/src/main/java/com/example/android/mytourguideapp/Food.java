@@ -22,14 +22,6 @@ public class Food {
         this.foodImage = foodImage;
     }
 
-    public String toString() {
-        return "Food{" +
-                "foodName='" + foodName + '\'' +
-                ", foodLocation='" + foodLocation + '\'' +
-                ", openTime='" + openTime + '\'' +
-                ", foodImage=" + foodImage +
-                '}';
-    }
 
     public String getFoodName() {
         return foodName;

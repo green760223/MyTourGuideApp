@@ -90,6 +90,8 @@
     <string name="sleepy_dragon_hostel">Sleepy Dragon Hostel</string>
     <string name="sleepy_dragon_hostel_location">7F, 399, Section 5, Nanjing East Road, Taipei City</string>
     <string name="sleepy_dragon_hostel_phone">02-8787-0739</string>
+    <string name="location_dialog_title">Location</string>
+    <string name="attraction_name">attractionName=\'</string>
 
 
 </resources>

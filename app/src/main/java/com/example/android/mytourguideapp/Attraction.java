@@ -26,17 +26,6 @@ public class Attraction {
         this.attractionLocation = attractionLocation;
     }
 
-    @Override
-    public String toString() {
-        return "Attraction{" +
-                "attractionName='" + attractionName + '\'' +
-                ", attractionDescription='" + attractionDescription + '\'' +
-                ", attractionImage=" + attractionImage +
-                ", attractionLocation=" + attractionLocation +
-                ", attractionType='" + attractionType + '\'' +
-                '}';
-    }
-
     public String getAttractionName() {
         return attractionName;
     }
